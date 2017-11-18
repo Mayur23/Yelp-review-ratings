@@ -5,9 +5,9 @@
 Data analysis and vizualization :- 
 
 
-FacetGrid, a grid of 5 histograms, from the Seaborn library is created to explore the distribution of the length of text across the 5 stars. Here, we determine that the distribution of text length across the reviews are very similar for all the stars but the amount of text reviews are much higher for the 4-star and 5-star movies compared to the lower rated movies. This may prove to be an issue as we go along the proccess. 
+FacetGrid, a grid of 5 histograms, from the Seaborn library is created to explore the distribution of the length of text across the 5 stars. Here, I determine that the distribution of text length across the reviews are very similar for all the stars but the amount of text reviews are much higher for the 4-star and 5-star movies compared to the lower rated movies. 
 
-Box plot created shows that important insights can not be determined from Text length because of the large number of outliers. 
+From the box plot, Important insights can not be determined from Text length because of the large number of outliers. 
 
 A Countplot of the number of occurances for each type of star rating is created to reflect the results shown in the Facetgrid plot (4 and 5 star ratings have more number of reviews)
 
